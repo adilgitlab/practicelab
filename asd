@@ -1,3 +1,0 @@
-hvc
-vch
-nbcvzx
